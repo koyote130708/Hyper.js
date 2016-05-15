@@ -4,7 +4,7 @@ Hyper.js is a JavaScript MVC framework for creating ultimate single-page web app
 - Dependencies: Class.js, jQuery, DataSource.js, Url.js
 - File sizes: 
 - License: MIT
-- 
+
 ## Quick Overview
 ### Key features
 - Intuitive API.
