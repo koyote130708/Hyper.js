@@ -1,6 +1,6 @@
 # Hyper.js
 Hyper.js is a JavaScript MVC framework for creating ultimate single-page web applications.
-- Current version: 1.0
+- Current version: 0.9a
 - Dependencies: Class.js, jQuery, DataSource.js, Url.js
 - File sizes: 
 - License: MIT
