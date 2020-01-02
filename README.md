@@ -4,10 +4,6 @@ Hyper.js is a JavaScript MVC framework for creating ultimate single-page web app
 - Dependencies: Go.js, sizzle
 - File sizes: 
 
-Copyright (c) 2015 Michael Ko
-
-This software is licensed under a Creative Commons BY-NC-ND 3.0 NZ License and is for personal and non-commercial use only. Commercial use of this software is expressly prohibited.
-
 
 ## Quick Overview
 ### Key features
@@ -18,3 +14,8 @@ This software is licensed under a Creative Commons BY-NC-ND 3.0 NZ License and i
 -	Supports a mixture of declarative and imperative programming styles for flexibility
 -	Runs virtually in any browser that supports ECMA5
 
+
+
+Copyright (c) 2015 Michael Ko
+
+This software is licensed under a Creative Commons BY-NC-ND 3.0 NZ License and is for personal and non-commercial use only. Commercial use of this software is expressly prohibited.
