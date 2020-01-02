@@ -3,7 +3,11 @@ Hyper.js is a JavaScript MVC framework for creating ultimate single-page web app
 - Current version: 1.6.4
 - Dependencies: Go.js, sizzle
 - File sizes: 
-- License: Creative Commons BY-NC-ND 3.0 NZ
+
+Copyright (c) 2015 Michael Ko
+
+This software is licensed under a Creative Commons BY-NC-ND 3.0 NZ License and is for personal and non-commercial use only. Commercial use of this software is expressly prohibited.
+
 
 ## Quick Overview
 ### Key features
