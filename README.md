@@ -1,9 +1,9 @@
 # Hyper.js
 Hyper.js is a JavaScript MVC framework for creating ultimate single-page web applications.
 - Current version: 1.6.4
-- Dependencies: Go.js, jQuery
+- Dependencies: Go.js, sizzle
 - File sizes: 
-- License: MIT
+- License: Creative Commons BY-NC-ND 3.0 NZ
 
 ## Quick Overview
 ### Key features
